@@ -6,6 +6,8 @@ import Founder from "../sections/Founder";
 import ProductInfo from "../sections/ProductInfo";
 import Testimonials from "../sections/Testimonials";
 import Faq from "../sections/Faq";
+import Impact from "../sections/Impact";
+import CTA from "../sections/CTA";
 
 function Homepage() {
   return (
@@ -17,6 +19,8 @@ function Homepage() {
       <ProductInfo />
       <Testimonials />
       <Faq />
+      <Impact />
+      <CTA />
     </div>
   );
 }

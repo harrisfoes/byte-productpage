@@ -18,6 +18,8 @@ export default {
       backgroundImage: {
         lucille1: "url('/src/assets/images/lucille-1.jpeg')",
         lucille2: "url('/src/assets/images/lucille-2.jpeg')",
+        lucille3: "url('/src/assets/images/lucille-3.png')",
+        yellow: "url('/src/assets/images/yellowjamma.png')",
         girlreading: "url('/src/assets/images/girl-reading.png')",
         curtains: "url('/src/assets/images/curtains.jpeg')",
       },

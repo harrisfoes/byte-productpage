@@ -1,7 +1,4 @@
 import React from "react";
-import leftImg from "../assets/images/lucille-2.jpeg";
-import centerImg from "../assets/images/lucille-1.jpeg";
-import rightImg from "../assets/images/girl-reading.png";
 
 function HeroImage() {
   return (
