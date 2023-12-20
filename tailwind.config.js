@@ -5,6 +5,7 @@ export default {
     colors: {
       cream: "#F9F0E5",
       darkblue: "#01005B",
+      "neutral-200": "#F0EEEF",
       "neutral-300": "#828282",
       "neutral-500": "#565656",
       "neutral-600": "#676869",
@@ -18,6 +19,7 @@ export default {
         lucille1: "url('/src/assets/images/lucille-1.jpeg')",
         lucille2: "url('/src/assets/images/lucille-2.jpeg')",
         girlreading: "url('/src/assets/images/girl-reading.png')",
+        curtains: "url('/src/assets/images/curtains.jpeg')",
       },
       gradientColorStops: {
         "orange-100": "#F9F0E5",

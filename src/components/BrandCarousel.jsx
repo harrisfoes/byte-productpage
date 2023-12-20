@@ -8,17 +8,17 @@ import art6 from "../assets/images/artboard6.png";
 
 const BrandCarousel = () => {
   const items = [
-    <div key="1" className="mx-auto flex w-[95%] justify-around gap-2 pt-8">
+    <div key="1" className="mx-auto flex w-[85%] justify-between gap-2 pt-8">
       <img src={art1} className="h-fit w-1/3" />
       <img src={art2} className="h-fit w-1/3" />
       <img src={art4} className="h-fit w-1/3" />
     </div>,
-    <div key="2" className="mx-auto flex w-[95%] justify-around gap-2 pt-8">
+    <div key="2" className="mx-auto flex w-[85%] justify-between gap-2 pt-8">
       <img src={art2} className="h-fit w-1/3" />
       <img src={art4} className="h-fit w-1/3" />
       <img src={art5} className="h-fit w-1/3" />
     </div>,
-    <div key="3" className="mx-auto flex w-[85%] justify-around gap-2 pt-8">
+    <div key="3" className="mx-auto flex w-[85%] justify-between gap-2 pt-8">
       <img src={art4} className="h-fit w-1/3" />
       <img src={art5} className="h-fit w-1/3" />
       <img src={art6} className="h-fit w-1/3" />
